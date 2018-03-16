@@ -43,7 +43,8 @@
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
-}
+    border-radius: 0;
+}s
 
 .jumbotron-heading {
     font-weight: 300;
